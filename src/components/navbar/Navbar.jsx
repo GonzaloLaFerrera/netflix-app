@@ -41,7 +41,7 @@ const Navbar = () => {
                 <span>KID</span>
                 <NotificationsIcon className="icon"/>
                 <img 
-                    src="public\img\pexels-ogproductionz-15647637.jpg" 
+                    src="/img/pexels-ogproductionz-15647637.jpg" 
                     alt="profile_pic" 
                 />
                 <div className="profile">

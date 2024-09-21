@@ -40,8 +40,12 @@
             margin-left: 50px;
             display: flex;
             width: max-content;
-
+            
             //Para trabajar el slider y que se muevan los elementos
+
+            transform: translateX(0px);
+            transition: all 1s ease;
+
         }
     }
 }
